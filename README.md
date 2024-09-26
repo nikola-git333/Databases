@@ -1,3 +1,3 @@
 # Databases
 Database exercises
-- sqlite, mongoDB, MySQL
+- sqlite, mongoDB, MySQL, sqlalchemy
